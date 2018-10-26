@@ -28,7 +28,6 @@ function preload() {
 	menuSound = loadSound('assets/Armory.ogg');
 	gameSound = loadSound('assets/EndOfLine.ogg');
 	tronFont = loadFont('assets/Tr2n.ttf');
-	msyiFont = loadFont('assets/msyi.ttf');
 	ralewayFont = loadFont('assets/Raleway-Light.ttf');
 	
 }
