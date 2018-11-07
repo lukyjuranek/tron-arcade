@@ -166,7 +166,7 @@ function draw() {
 			textFont(ralewayFont);
 			fill(255);
 			text("Created by Lukáš Juránek", width/2, 175);
-			text("github.com/lukyjuranek/tron", width/2, 225);
+			text("github.com/lukyjuranek/tron-arcade", width/2, 225);
 			textSize(16);
 			text("(Press ESC to get back)", width/2, 275);
 		break;
