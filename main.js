@@ -162,7 +162,7 @@ function draw() {
 			text("ARCADE", width/2, height/5 + 25);
 
 
-			textSize(28);
+			textSize(25);
 			textFont(ralewayFont);
 			fill(255);
 			text("Created by Lukáš Juránek", width/2, 175);
